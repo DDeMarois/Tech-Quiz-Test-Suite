@@ -42,17 +42,17 @@ The Tech Quiz Application is a fully functional quiz app built using the MERN st
      MONGODB_URI='mongodb://127.0.0.1:27017/techquiz'
      ```
 
-5. Build server:
+4. Build server:
    ```bash
    npm run build
    ```
    
-6. Seed server:
+5. Seed server:
   ```bash
   npm run seed
   ```
 
-7. Start the server and client:
+6. Start the server and client:
    ```bash
    npm run start:dev
    ```
