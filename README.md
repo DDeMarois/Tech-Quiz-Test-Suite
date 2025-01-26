@@ -18,8 +18,8 @@ The Tech Quiz Application is a fully functional quiz app built using the MERN st
    - Database: MongoDB
 
 -Testing:
-   - Cypress for component testing.
-   - Cypress for end-to-end testing.
+   - Cypress for component testing
+   - Cypress for end-to-end testing
 
 ---
 
