@@ -39,7 +39,7 @@ The Tech Quiz Application is a fully functional quiz app built using the MERN st
    - Create a `.env` file in the root directory.
    - Add the following variables:
      ```env
-    MONGODB_URI='mongodb://127.0.0.1:27017/techquiz'
+     MONGODB_URI='mongodb://127.0.0.1:27017/techquiz'
      ```
 
 5. Build server:
