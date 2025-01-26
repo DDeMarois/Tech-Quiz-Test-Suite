@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "1",
+        "question": "What does HTML stand for?",
+        "answers": [
+            { "text": "Hyper Text Markup Language", "isCorrect": true },
+            { "text": "High Text Markup Language", "isCorrect": false },
+            { "text": "Hyperlink and Text Markup Language", "isCorrect": false }
+        ]
+    },
+    {
+        "_id": "2",
+        "question": "Which of the following is a JavaScript framework?",
+        "answers": [
+            { "text": "React", "isCorrect": true },
+            { "text": "Django", "isCorrect": false },
+            { "text": "Laravel", "isCorrect": false }
+        ]
+    },
+    {
+        "_id": "3",
+        "question": "What is the purpose of the 'this' keyword in JavaScript?",
+        "answers": [
+            { "text": "Refers to the global object", "isCorrect": false },
+            { "text": "Refers to the current object", "isCorrect": true },
+            { "text": "Refers to the parent object", "isCorrect": false }
+        ]
+    }
+]
