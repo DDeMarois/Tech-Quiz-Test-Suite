@@ -48,9 +48,9 @@ The Tech Quiz Application is a fully functional quiz app built using the MERN st
    ```
    
 5. Seed server:
-  ```bash
-  npm run seed
-  ```
+   ```bash
+   npm run seed
+   ```
 
 6. Start the server and client:
    ```bash
